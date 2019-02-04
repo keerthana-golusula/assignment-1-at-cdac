@@ -22,6 +22,7 @@ int main() {
 		
 	}
 	avg = (float)(sum / l);
+	//g2 = sum / l;
 	printf("minimum value is %d", min);
 	printf("maximum value is %d", max);
 	printf("average value is %f",avg);
